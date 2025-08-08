@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://brop1bisuiv4k"
-path="res://.godot/imported/brackeys-platformer.icon.png-219c4cb99a584045a1a30b4bc609189e.ctex"
+uid="uid://bpdhm1a23r2qs"
+path="res://.godot/imported/brackeys-platformer.png-f0b2f10990e6789f9133f09f52468ef1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://exports/html/brackeys-platformer.icon.png"
-dest_files=["res://.godot/imported/brackeys-platformer.icon.png-219c4cb99a584045a1a30b4bc609189e.ctex"]
+source_file="res://exports/html/dist/brackeys-platformer.png"
+dest_files=["res://.godot/imported/brackeys-platformer.png-f0b2f10990e6789f9133f09f52468ef1.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bpdhm1a23r2qs"
-path="res://.godot/imported/brackeys-platformer.png-0edfecc990fd93ac16bcb4ed0f69c298.ctex"
+uid="uid://cdrhdofj278lj"
+path="res://.godot/imported/brackeys-platformer.apple-touch-icon.png-b51bdf1d11620212af1add219934460d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://exports/html/brackeys-platformer.png"
-dest_files=["res://.godot/imported/brackeys-platformer.png-0edfecc990fd93ac16bcb4ed0f69c298.ctex"]
+source_file="res://exports/html/dist/brackeys-platformer.apple-touch-icon.png"
+dest_files=["res://.godot/imported/brackeys-platformer.apple-touch-icon.png-b51bdf1d11620212af1add219934460d.ctex"]
 
 [params]
 
